@@ -7,15 +7,15 @@ print(x)
 
 #Conditional Flow
 x=5
-if x<10:
+if x<10 :
     print('I am less than 10')
-else:
+else :
     print('I am greater than 10')
 print('I am done')  
 
 #Repeated Flow
 x=5
-while(x>0):
+while(x>0) :
     print(x)
     x = x-1
 print('I am done')
